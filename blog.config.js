@@ -2,7 +2,7 @@ const BLOG = {
   title: '辉',
   author: '孙东辉',
   email: 'sundonghuichina@gmail.com',
-  link: 'https://sun-donghui.notion.site/',
+  link: 'https://donghui.asia/',
   description: '朝花夕拾',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
